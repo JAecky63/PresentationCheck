@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Checkliste: Präsentationsfolien bewusst gestalten</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 2em;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #005a9c;
+    }
+    ul {
+      list-style-type: disc;
+      padding-left: 1.5em;
+    }
+    .section {
+      margin-bottom: 2em;
+      padding: 1em;
+      background-color: #ffffff;
+      border-left: 5px solid #005a9c;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    .infobox {
+      background-color: #eef6ff;
+      border-left: 5px solid #ffa500;
+      padding: 1em;
+      margin-top: 1em;
+      margin-bottom: 2em;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 0.5em;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 0.5em;
+      text-align: left;
+    }
+    a {
+      color: #005a9c;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Checkliste: Präsentationsfolien bewusst gestalten</h1>
+
+  <div class="section">
+    <h2>1. Inhalt & Struktur</h2>
+    <ul>
+      <li>Kernaussage klar formuliert (eine Idee pro Folie)</li>
+      <li>Titel prägnant und aussagekräftig</li>
+      <li>Logischer Aufbau innerhalb der Präsentation</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>2. Vereinfachung</h2>
+    <ul>
+      <li>Überflüssiger Text entfernt</li>
+      <li>Keine dekorativen Icons oder Cliparts</li>
+      <li>Farben auf max. 3–5 reduziert</li>
+      <li>Keine Rasterlinien oder PowerPoint-Standarddesigns</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>3. Visualisierung – bewusst auswählen</h2>
+    <ul>
+      <li>Diagrammtyp passend zum Inhalt gewählt (z. B. Kreis für Anteile, Balken für Vergleiche)</li>
+      <li>Entscheidung begründet: Was soll das Publikum erkennen?</li>
+      <li>Fließtext durch visuelle Elemente ersetzt</li>
+      <li>Achsen und Daten klar beschriftet</li>
+      <li>Quellenangabe bei Datenvisualisierung ergänzt</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>4. Aufmerksamkeitslenkung</h2>
+    <ul>
+      <li>Farbkontraste gezielt eingesetzt</li>
+      <li>Schriftgrößen sinnvoll abgestuft</li>
+      <li>Wichtige Elemente hervorgehoben</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>5. Konsistenz & Design</h2>
+    <ul>
+      <li>Einheitliche Schriftarten und -größen</li>
+      <li>Gleiche Abstände und Layoutregeln</li>
+      <li>Farben und Designvorgaben eingehalten</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>6. Peer-Review</h2>
+    <ul>
+      <li>Feedback von Mitschüler:innen oder Kolleg:innen eingeholt</li>
+      <li>Rückmeldungen dokumentiert und ggf. umgesetzt</li>
+      <li>Präsentation auf Verständlichkeit und Wirkung geprüft</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>7. Präsentation üben</h2>
+    <ul>
+      <li>Vortragen geübt (laut, mit Zeitlimit)</li>
+      <li>Übergänge zwischen Folien getestet</li>
+      <li>Körpersprache und Stimme reflektiert</li>
+      <li>Technik und Medien vorab getestet</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>5-Fragen-Check für jede Folie</h2>
+    <ul>
+      <li>Was möchte die Folie sagen?</li>
+      <li>Was lässt sich vereinfachen?</li>
+      <li>Wie lässt sich die Information besser visualisieren?</li>
+      <li>Wie lenke ich die Aufmerksamkeit des Publikums?</li>
+      <li>Wirkt alles beabsichtigt und konsistent?</li>
+    </ul>
+  </div>
+
+  <div class="infobox">
+    <h3>Farbpsychologie in Präsentationen</h3>
+    <p>Farben beeinflussen, wie Inhalte wahrgenommen und emotional bewertet werden:</p>
+    <table>
+      <tr><th>Farbe</th><th>Wirkung</th></tr>
+      <tr><td>Rot</td><td>Aufmerksamkeit, Dringlichkeit, Warnung</td></tr>
+      <tr><td>Blau</td><td>Ruhe, Vertrauen, Seriosität</td></tr>
+      <tr><td>Orange</td><td>Kreativität, Energie, Fokus</td></tr>
+    </table>
+    <p>Mehr zur Farbwirkung: <a href="https://yooobs.com/powerpoint-kurs/farbpsychologie-prasentation/" target="_blank">Yooobs.com – Farbpsychologie</a></p>
+  </div>
+
+  <div class="infobox">
+    <h3>7 ± 2-Regel – Millersche Zahl</h3>
+    <p>Das menschliche Arbeitsgedächtnis kann durchschnittlich <strong>5 bis 9 Informationseinheiten („Chunks“)</strong> gleichzeitig verarbeiten.</p>
+    <p>Praxis-Tipp: Inhalte in sinnvolle Blöcke gliedern, Überladung vermeiden, visuelle Klarheit schaffen.</p>
+    <p>Hintergrund: <a href="https://de.wikipedia.org/wiki/Millersche_Zahl" target="_blank">Wikipedia – Millersche Zahl</a></p>
+  </div>
+</body>
+</html>
